@@ -2,7 +2,7 @@
 
 ## Due Date
 
-TBD
+Tuesday, July 24, 2018 @ 4:00 PM
 
 ## Goals
 
@@ -11,21 +11,19 @@ TBD
 
 ## Readings and Resources
 
-NA
+RSpec Supplement - RSPEC-SUPPLEMENT.md
 
 ## Project Setup
 
-  ```
-  $ sudo apt-get update
-  $ sudo apt-get install sqlite3 libsqlite3-dev
-  $ unzip homework-01.zip
-  $ cd /path/to/rails/homework-01
-  $ bundle install
-  $ rails db:create
-  $ rails db:migrate
-  ```
+```
+$ unzip fh-homework-01-MM.DD.YYYY.zip
+$ cd /path/to/fh-homework-01-MM.DD.YYYY
+$ bundle install
+$ rails db:create
+$ rails db:migrate
+```
 
-  Note:  Do not type `$` in the above.  Just the command that follows.
+Note: Do not type `$` in the above. Just the command that follows.
 
 - Test your basic understanding of debugging a Rails application through the
   following:
@@ -40,9 +38,9 @@ NA
 
     - listing author
 
-    Note:  You can execute the units tests to verify that things are working
-           correctly by running the unit tests as follows in the root directory
-           of the project:
+    Note: You can execute the units tests to verify that things are working
+    correctly by running the unit tests as follows in the root directory
+    of the project:
 
            ```
            $ rspec
@@ -82,8 +80,8 @@ NA
 
 ## Deliverables
 
-  - create a repo called `homework-01` and push your solution to Github.com
+- create a repo called `fh-homework-01` and push your solution to Github.com
 
 ## Have Questions
 
-Please make a reasonable effort to complete the homework prior to our next session.  If you have any questions regarding this homework, please do send me a message via Slack.
+Please make a reasonable effort to complete the homework prior to our next session. If you have any questions regarding this homework, please do send me a message via Slack.
